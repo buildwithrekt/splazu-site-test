@@ -1,0 +1,13 @@
+{
+  "name": "splazu-site-test",
+  "ticker": "FORK",
+  "token": null,
+  "curve": null,
+  "links": {
+    "twitter": "",
+    "telegram": "",
+    "website": ""
+  },
+  "creatorTaxBps": 200,
+  "builtWith": "http://localhost:3220"
+}

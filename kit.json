@@ -1,0 +1,74 @@
+{
+  "name": "splazu-site-test",
+  "site": {
+    "faq": [
+      {
+        "a": "Any public GitHub repository with at least 50 stars. Archived repos are excluded.",
+        "q": "Which repos can I trade?"
+      },
+      {
+        "a": "At the deadline, the star count is read from the GitHub API by an oracle and written on-chain. The market settles in the same block.",
+        "q": "How are milestones checked?"
+      },
+      {
+        "a": "$FORK holders vote on featured markets and share a part of the trading fees.",
+        "q": "What does $FORK do?"
+      }
+    ],
+    "hero": {
+      "cta": "Open a market",
+      "eyebrow": "Prediction markets for GitHub",
+      "headline": "Bet on the repos that are about to break out.",
+      "subheadline": "Pick any public repository, call its next star milestone and trade the outcome. Prices move with real traction: commits, releases, and the day it hits the front page."
+    },
+    "steps": [
+      {
+        "body": "Search trending repos or paste a link to one you have been watching.",
+        "title": "Find a repo"
+      },
+      {
+        "body": "Buy YES if you think it hits the milestone by the deadline, NO if you don't.",
+        "title": "Take a side"
+      },
+      {
+        "body": "When the deadline passes, winning positions are paid out from the pool.",
+        "title": "Get paid"
+      }
+    ],
+    "closing": {
+      "body": "Open a market before everyone else notices it.",
+      "headline": "The next big repo is already trending."
+    },
+    "features": [
+      {
+        "body": "Paste a GitHub link and a market opens in seconds, with milestones set from the repo's current stars and growth rate.",
+        "title": "Any public repo"
+      },
+      {
+        "body": "Stars, forks, contributors and release cadence stream into every market so you trade on signal, not vibes.",
+        "title": "Live traction data"
+      },
+      {
+        "body": "Milestones are checked against the GitHub API at the deadline and settle automatically. No disputes, no committees.",
+        "title": "Settles on-chain"
+      }
+    ]
+  },
+  "vibe": "Terminal-dark and precise, built for developers who read diffs for fun",
+  "fonts": {
+    "body": "Inter",
+    "display": "Space Grotesk"
+  },
+  "ticker": "FORK",
+  "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\"><rect width=\"64\" height=\"64\" rx=\"14\" fill=\"#121922\"/><circle cx=\"22\" cy=\"18\" r=\"6\" fill=\"#3fb950\"/><circle cx=\"42\" cy=\"18\" r=\"6\" fill=\"#3fb950\"/><circle cx=\"32\" cy=\"46\" r=\"6\" fill=\"#3fb950\"/><path d=\"M22 24v4a6 6 0 0 0 6 6h8a6 6 0 0 0 6-6v-4M32 34v6\" fill=\"none\" stroke=\"#3fb950\" stroke-width=\"4\" stroke-linecap=\"round\"/></svg>",
+  "palette": {
+    "text": "#e6edf3",
+    "muted": "#8b9bab",
+    "accent": "#3fb950",
+    "surface": "#121922",
+    "accentText": "#06120a",
+    "background": "#0b0f14"
+  },
+  "tagline": "Trade the momentum of open source.",
+  "description": "Forkline is a prediction market for open-source momentum. Pick a public GitHub repo, take a position on its next star milestone, and watch the price move with every commit, release and launch."
+}
