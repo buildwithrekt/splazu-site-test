@@ -4,8 +4,8 @@
   "token": null,
   "curve": null,
   "links": {
-    "twitter": "",
-    "telegram": "",
+    "twitter": "https://x.com/splazu_test",
+    "telegram": "https://t.me/t.me/splazutest",
     "website": ""
   },
   "creatorTaxBps": 200,
